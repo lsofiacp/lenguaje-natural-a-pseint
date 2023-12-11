@@ -1,0 +1,10 @@
+Algoritmo Conversión_de_unidades_de_longitud
+	
+	Escribir "Ingresa la cantidad en centimetros que deseas convertir";
+	leer unidadcm;
+	
+	res<-unidadcm/2.54;
+	
+	Escribir unidadcm " cm equivalen a ",res " pulgadas";
+	
+FinAlgoritmo
